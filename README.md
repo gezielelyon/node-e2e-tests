@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **NodeJS HTTP Server Without Framework**
+# **NodeJS E2E Tests**
 
 </div>
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/node_end_to_end_tests)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/node_end_to_end_tests)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/node_end_to_end_tests)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/node_end_to_end_tests)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/node-e2e-tests)](https://github.com/gezielelyon/node-e2e-tests/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/node-e2e-tests)](https://github.com/gezielelyon/node-e2e-tests/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/node-e2e-tests)](https://github.com/gezielelyon/node-e2e-tests/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/node-e2e-tests)](https://github.com/gezielelyon/node-e2e-tests)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![NodeJS](https://img.shields.io/badge/NodeJS-Runtime-orange)
 
